@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Starting Grad Study at UCLA"
+title: "Starting Grad Study at UCONN"
 ---
 
-Having concluded the 3-year advanture in Switzerland, I'm starting my graduate study in Computer Science at UCLA.
+Having concluded the 3-year advanture in Switzerland, I'm starting my graduate study in Geographic Information Science at UCONN.
 
 Let's embark on this brand new journey with a joyful heart, a humble mind and have some fun along the way. 
 
