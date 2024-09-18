@@ -3,6 +3,9 @@ layout: home
 title: "Home"
 ---
 
-Hi! It's Zheng /zɛn/ LUO 罗峥 also going by Tim, as I strive to be a <a href='https://www.bible.com/bible/59/2TI.1.7'>helpful companion</a>.
+Hi! It's Tao Peng 彭<a href='https://www.bible.com/bible/59/PSA.93.4'>涛</a>.
 
-I’m a graduate student advised by Prof. [Remy Wang](https://remy.wang/) at the Computer Science Department of UCLA. I was mentored by Prof. Ahmet Kara and Prof. Dan Olteanu in [Zurich](https://www.ifi.uzh.ch/en/dast.html). Before that, I had worked as a quantitative analyst on financial derivatives and studied math in Chicago and Wuhan.
+I’m a graduate student advised by Prof. [Yoo Min Park](https://www2.yoominpark.com/) at the Department of Geography, Sustainability, Community, and Urban Studies of the University of Connecticut. 
+I was mentored by Dr. Cheng FU and Prof. Robert WEIBEL at the [GIS Group](https://www.geo.uzh.ch/en/units/gis.html) of the University of Zurich. 
+During my study in Zurich, I also worked as a research assistant supervised by Prof. [
+Judit Lienert](https://www.eawag.ch/en/about-us/portrait/organisation/staff/profile/judit-lienert/show/) at the Swiss Federal Institute of Aquatic Science and Technology (EAWAG). Before that, I studied Urban Planning in Wuhan.
