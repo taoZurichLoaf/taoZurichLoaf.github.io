@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-Hi! It's Tao Peng 彭<a href='https://www.bible.com/bible/59/PSA.93.4'>涛</a>.
+Hi! It's Tao PENG 彭<a href='https://www.bible.com/bible/59/PSA.93.4'>涛</a>.
 
 
 I’m a graduate student advised by Prof. [Yoo Min Park](https://www2.yoominpark.com/about) in the Department of Geography, Sustainability, Community, and Urban Studies at the University of Connecticut. 
