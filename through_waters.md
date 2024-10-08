@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: post
 title: "Isaiah 以赛亚书 43:2"
 ---
 
