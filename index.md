@@ -6,7 +6,7 @@ title: "Home"
 Hi! It's Tao PENG 彭[涛]({{ site.baseurl }}{% link through_waters.md %}).
 
 
-I’m a graduate student advised by Prof. [Yoo Min Park](https://www2.yoominpark.com/about) in the Department of Geography, Sustainability, Community, and Urban Studies at the University of Connecticut. 
+I’m a graduate student advised by Prof. [Yoo Min Park](https://www2.yoominpark.com/team) in the Department of Geography, Sustainability, Community, and Urban Studies at the University of Connecticut. 
 
 
 I was mentored by Dr. [Cheng FU](https://cfu1.github.io/) and Prof. [Robert WEIBEL](https://user.geo.uzh.ch/rweibe/) in the [GIS Group](https://www.geo.uzh.ch/en/units/gis.html) at the University of Zurich. 
